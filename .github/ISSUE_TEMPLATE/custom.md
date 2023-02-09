@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: Nhzone
+about: ပါဆင္နယ္.
+title: 'ု'
+labels: '၁'
 assignees: ''
 
 ---
